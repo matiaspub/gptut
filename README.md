@@ -5,14 +5,16 @@ gptut is a simple command-line interface (CLI) application that allows users to 
 ## Features
 
 - [x] Select a model to interact with.
-- [ ] Model ID argument
-- [ ] (chat) Chating with selected model
-- [ ] (models) List available OpenAI models.
-- [ ] (chats) List of the chats
+- [x] (chat) Chatting with selected model
+- [ ] tests
+- [ ] docs
+- [ ] sqlite
+- [ ] make
+- [ ] pipeline
 
 ## Prerequisites
 
-- Rust installed on your machine. (You can install it from [rust-lang.org](https://www.rust-lang.org/tools/install)).
+- Rust installed on your machine. _(You can install it from [rust-lang.org](https://www.rust-lang.org/tools/install))_.
 - An OpenAI API key. Sign up at [OpenAI](https://platform.openai.com/signup/) to obtain one.
 
 ## Installation
